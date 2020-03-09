@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Geografic Quiz</string>
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="next_button">NEXT</string>
+    <string name="previous_button">PREVIOUS</string>
+    <string name="incorrect_toast">FALSE</string>
+    <string name="correct_toast">TRUE</string>
+    <string name="question_Austria">Vienna is a capital of Austria</string>
+    <string name="question_Azerbaijan">Sidney is a capital of Azerbaijan</string>
+    <string name="question_Brazil">Brasilia is a capital of Brazil</string>
+    <string name="question_Bulgaria">Sofia is a capital of Bulgaria</string>
+    <string name="question_Canada">Ottawa is a capital of Canada</string>
+    <string name="question_China">Tokio is a capital of China</string>
+    <string name="question_Colombia">Phnom Penh is a capital of Colombia</string>
+    <string name="question_CostaRica">Kiev is a capital of Costa Rica</string>
+    <string name="question_Egypt">Cairo is a capital of Egypt</string>
+    <string name="question_Estonia">Prague is a capital of Estonia</string>
+    <string name="answer_button">SHOW ANSWER</string>
+    <string name="true_answer">Answer</string>
+    <string name="text_question">Are you really want to cheat???</string>
+    <string name="cheat_button">CHEAT!!!</string>
+    <string name="no_button">GO TO BACK</string>
+    <string name="cheater">You are cheater!!</string>
+</resources>
